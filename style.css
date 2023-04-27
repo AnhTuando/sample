@@ -9,7 +9,7 @@ body {
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  background-color: rgb(231, 231, 231);
+  background: linear-gradient(to right, #ef32d9, #89fffd);
   font-family: "roboto";
 }
 /* Wrap */
